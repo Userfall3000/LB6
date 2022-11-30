@@ -27,6 +27,11 @@ _______________Рис. 6.2 – Игровой объект
 ![image](https://user-images.githubusercontent.com/119228138/204732489-63848926-5ec7-4141-b14a-a1c55b0a1d1c.png)
 
 
+
+```Код
+
+```
+
 [LR6-8.docx](https://github.com/TimurMigunov/Lab./files/10115794/LR6-8.docx)
 
 [lr6-8.ZIP](https://github.com/TimurMigunov/LR6-8/files/10116618/lr6-8.ZIP)
